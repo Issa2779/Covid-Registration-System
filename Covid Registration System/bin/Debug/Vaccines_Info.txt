@@ -1,0 +1,29 @@
+*Pfizer-BioNTech:
+
+   Manufacturer/developer: BioNTech, Fosun Pharma, Pfizer
+
+   Research name: BNT162b2
+
+   Vaccine type: RNA
+
+   Administration method: Intramuscular injection
+_______________________________________________________________
+*Moderna:
+
+   Manufacturer/developer: Moderna, NIAID
+
+   Research name: mRNA-1273
+
+   Vaccine type: RNA
+
+   Administration method: Intramuscular injection
+_______________________________________________________________
+*Johnson & Johnson’s Janssen:
+
+   Manufacturer/developer: Janssen Pharmaceutical Companies
+
+   Research name: JNJ-78436735 (Ad26.COV2.S)
+
+   Vaccine type: Non-Replicating Viral Vector
+
+   Administration method: Intramuscular injection
